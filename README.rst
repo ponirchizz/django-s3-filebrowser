@@ -39,3 +39,4 @@ AWS_STORAGE_BUCKET_NAME = 'YOUR_AWS_STORAGE_BUCKET_NAME'
 AWS_STORAGE_BUCKET_ROOT_FOLDER = 'YOUR_AWS_STORAGE_BUCKET_ROOT_FOLDER' // for example AWS_STORAGE_BUCKET_ROOT_FOLDER = 'public' is the root folder of my s3 bucket 
 
 4. Visit 'http://127.0.0.1:8000/filebrowser/files/' to see the filelist.
+
